@@ -48,7 +48,7 @@ public class ExecutaFila extends Thread {
 			try {
 				Thread.sleep(900);
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
+				
 				e.printStackTrace();
 			} /* Tempo para iniciar outro processo */
 			

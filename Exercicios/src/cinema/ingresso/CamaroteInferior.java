@@ -22,7 +22,7 @@ public class CamaroteInferior extends Vip {
 	}
 	
 	public CamaroteInferior() {
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 }

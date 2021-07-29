@@ -13,7 +13,7 @@ public class Normal extends Ingresso {
 	}
 	
 	public Normal() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 }

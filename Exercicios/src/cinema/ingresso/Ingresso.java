@@ -3,7 +3,7 @@ package cinema.ingresso;
 public class Ingresso {
 	
 	public Ingresso() {
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	protected double valor = 50;
