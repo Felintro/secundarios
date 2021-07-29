@@ -20,6 +20,22 @@ public class EstruturaEstatica<T> {
 		this.tamanho = tamanho;
 	}
 	
-	
+	/* Gets e Sets */
 
+	public T[] getElementos() {
+		return elementos;
+	}
+
+	public void setElementos(T[] elementos) {
+		this.elementos = elementos;
+	}
+
+	public int getTamanho() {
+		return tamanho;
+	}
+
+	public void setTamanho(int tamanho) {
+		this.tamanho = tamanho;
+	}
+	
 }

@@ -1,7 +1,5 @@
 package cursoextra.classes;
 
-import java.lang.reflect.Array;
-
 public class Lista<T> {
 	
 	private T[] elementos;
